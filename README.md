@@ -62,3 +62,5 @@ A little example about: How the bot works in the console.
 
 ## More information about it :file_folder:
 https://www.blog.binaria.uno/2019/07/29/escrapear-paginas-web-y-publicar-contenido-en-twitter-con-python/
+https://scrapinghub.com/what-is-web-scraping
+https://www.w3schools.com/xml/xpath_intro.asp
