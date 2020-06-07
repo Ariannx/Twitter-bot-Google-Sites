@@ -1,6 +1,6 @@
 # Twitter Bot with Google Sites
 
-***Authors: Armijos Arianna / Román Stadyn***
+***By: Armijos Arianna / Román Stadyn***
 
 The objective of this project is to create a **Twitter bot** that publish tweets about information that can be inside of a 
 **Google Sites** through a virtual machine with **Raspberry**.
@@ -43,13 +43,14 @@ From Python 3.7 onwards are fully supported.
 * [lxml](https://lxml.de/lxmlhtml.html)
 * [nltk](https://www.nltk.org/)
 * [time](https://docs.python.org/3/library/time.html)
+* [credentials](https://developer.twitter.com/en) of your app 
 ```
 <your-env>pip3 install <each-library-or-module>
 ```
 ## Preview :exclamation:
 A little example about: How the bot works in the console.
-![](/preview_1.jpeg)
-![](/preview_2.jpeg)
+![](/Pictures/preview_1.jpeg)
+![](/Pictures/preview_2.jpeg)
 
 ## More information about it :file_folder:
 https://www.blog.binaria.uno/2019/07/29/escrapear-paginas-web-y-publicar-contenido-en-twitter-con-python/
