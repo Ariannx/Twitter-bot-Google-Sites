@@ -20,9 +20,9 @@ The techinque will be use is **Scraping Web**
 * In this step we have to the Keys and Tokens 
 
 ## Steps for Google Sites :feet:
-* Create a [Google Sites](https://sites.google.com/new)
-* Create a site that contain sub web pages (for more facility)
-* Modify your site in your own way
+* Creating a [Google Sites](https://sites.google.com/new)
+* Creating a site that contain sub web pages (for more facility)
+* You can modify your site in your own way
 
 ## VM Raspberry :computer:
 * Memory Ram: 1 GB
