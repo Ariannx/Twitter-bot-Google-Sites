@@ -1,5 +1,0 @@
-
-ACCESS_TOKEN='Write yoy ACCESS_TOKEN here'
-ACCESS_SECRET='Write yoyr ACCESS_SECRET here'
-CONSUMER_KEY= 'Write your CONSUMER_KEY here '
-CONSUMER_SECRET= 'Write your CONSUMER_SECRET here'
