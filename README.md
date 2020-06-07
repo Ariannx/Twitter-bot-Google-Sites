@@ -1,6 +1,6 @@
 # Twitter Bot with Google Sites
 
-***Authors: Arianna Armijos / Román Stadyn***
+***Authors: Armijos Arianna / Román Stadyn***
 
 The objective of this project is to create a **Twitter bot** that publish tweets about information that can be inside of a 
 **Google Sites** through a virtual machine with **Raspberry**.
