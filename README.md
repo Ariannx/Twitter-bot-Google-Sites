@@ -9,7 +9,9 @@ The techinque will be use is **Scraping Web**
 
 ### Example
 ![](/Pictures/Capture_google_sites1.png)
-
+<p align="center">
+  <img src="/Pictures/Capture_twitter_bot.png">
+</p>
 
 ## Steps for Twitter :feet: 
 * Creating a New Account in [Twitter](https://twitter.com/). This account will be for the bot.
