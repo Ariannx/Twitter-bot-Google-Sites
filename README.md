@@ -6,8 +6,8 @@ This bot will publish the link and the principal phrase of first paragraph of ea
 The techinque will be use is **Scraping Web**
 
 ### Example
-![](/Images/Capture_google_sites.png)
-![](/Images/Capture_twitter_bot.png)
+![](/Pictures/Capture_google_sites.png)
+![](/Pictures/Capture_twitter_bot.png)
 
 ## Steps for Twitter :feet: 
 * Creating a New Account in [Twitter](https://twitter.com/). This account will be for the bot.
