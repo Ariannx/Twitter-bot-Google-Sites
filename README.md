@@ -15,7 +15,7 @@ The techinque will be use is **Scraping Web**
 
 ## Steps for Twitter :feet: 
 * Creating a New Account in [Twitter](https://twitter.com/). This account will be for the bot.
-* Creating a Account in [Twitter Developer](https://developer.twitter.com/en) in order to have access to our Api's keys for any app.
+* Creating a Account in [Twitter Developer](https://developer.twitter.com/en) in order to have access to our Api for any app.
 * In [Twitter Developer](https://developer.twitter.com/en) we have to register our bot app on Twitter.
 * In this step we have to the Keys and Tokens 
 
@@ -27,7 +27,8 @@ The techinque will be use is **Scraping Web**
 ## VM Raspberry :computer:
 * Memory Ram: 1 GB
 * Storage: 32 GB
-* 
+* Clock Speed: 1.4 GHz
+* OS: Raspbian
 
 
 ## Installation :computer:
