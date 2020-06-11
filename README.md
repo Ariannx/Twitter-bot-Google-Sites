@@ -54,7 +54,7 @@ From Python 3.7 onwards are fully supported.
 * [time](https://docs.python.org/3/library/time.html)
 * [credentials](https://developer.twitter.com/en) of your app 
 ```
-<your-env>pip3 install <each-library-or-module>
+<your-env>pip3 install <library>
 ```
 ## Preview :exclamation:
 A little example about: How the bot works in the console.
