@@ -42,17 +42,27 @@ def scrape_web():
 		yield '"%s" %s' % (text, link) 
 
 def main():
-	new_iter = []
-	new_iter.append(globals()['scrape_web']()) 
+	lista_general = []
+	lista_publicados = []
 	while True:
-		for i, iterator in enumerate(new_iter): 
-			try: 	
-				tweet = next(iterator)
+		new_iter = scrape_web()
+		for i, iterator in enumerate(new_iter):
+			lista_general.append(iterator)
+			if len(lista_general) == len(set(lista_general)): 
+				tweet = iterator 
 				t.statuses.update(status=tweet) 
-				print(tweet, end='\n\n') 
-				time.sleep(30) 			
-			except StopIteration: 
-				new_iter[i] = globals()['scrape_web']() 
+				lista_publicados.append(tweet)
+				print(tweet, end='\n\n') 			
+				time.sleep(15)
+			else:
+				for j in lista_general:
+					if j not in lista_publicados:		
+						new = j
+						print(new)
+						time.sleep(3)
+						t.statuses.update(status = new)
+						lista_publicados.append(new)
+						time.sleep(3)
+				else:
+					time.sleep(1)				
 main()
-
-
